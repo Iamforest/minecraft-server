@@ -7,3 +7,6 @@ resource "azurerm_resource_group" "rg-mc" {
 
 # create the container group and in that group create a container
  
+
+
+ 
