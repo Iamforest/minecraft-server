@@ -13,9 +13,13 @@ RUN wget -O server.jar https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1
 
 RUN echo "eula=true" > eula.txt
 
+RUN rm -rf /minecraft/world
+
+RUN echo "level-name=../../minecraft/worlds/A_hole_world" > server.properties
+
 EXPOSE 25565
 
-CMD [ "-Xmx2G", "-Xms2G", "-jar", "server.jar", "nogui" ]
-
 ENTRYPOINT [ "java" ]
+
+CMD [ "-Xmx2G", "-Xms2G", "-jar", "server.jar", "nogui" ]
 
