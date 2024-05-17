@@ -6,7 +6,7 @@ I chose Azure as that is the platform I have the most experience with. I tried t
 ## Why the Cloud? Why not use an old laptop or something?
 There are 3 reasons I used the cloud:
 1. Availability
-   I do not play minecraft with friends all that often. So I did not want to worry about keeping a local machine running all the time just for the few times I will boot the server up.
+- I do not play minecraft with friends all that often. So I did not want to worry about keeping a local machine running all the time just for the few times I will boot the server up.
 3. Performance
    Well I 
 I did not use my computer becasue of 
