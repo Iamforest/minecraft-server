@@ -12,5 +12,9 @@ There are 3 reasons I used the cloud:
 3. Network limitations
 - The network I am on is not the most consistaint or well constructed. It uses a hybrid modem/router, and while the speeds are fine, for the most part, the consistantcy of the network while playing games is quite obvious.
   Unfortunetly I am not in charge of how the network is setup. If I was, maybe I would not have this point.
+4. Cloud Skills
+- This one is pretty simple. I want to improve my cloud skills and the only way to do that is to actually use it.
+
+
 
 
